@@ -1,0 +1,13 @@
+{
+    "name": "Yarn",
+    "alias": "yarn",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Yarn\\Providers\\YarnServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

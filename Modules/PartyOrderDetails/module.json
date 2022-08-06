@@ -1,0 +1,13 @@
+{
+    "name": "PartyOrderDetails",
+    "alias": "partyorderdetails",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\PartyOrderDetails\\Providers\\PartyOrderDetailsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

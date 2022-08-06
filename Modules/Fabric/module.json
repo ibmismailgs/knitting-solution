@@ -1,0 +1,13 @@
+{
+    "name": "Fabric",
+    "alias": "fabric",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Fabric\\Providers\\FabricServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
